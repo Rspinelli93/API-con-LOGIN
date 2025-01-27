@@ -6,6 +6,7 @@ package-lock.json
 logs/
 *.log
 
+
 # Dependencias de desarrollo
 .env
 
